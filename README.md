@@ -72,3 +72,6 @@ This demonstrates core agentic AI engineering skills:
 - Safe **secrets management** (no hardcoded API keys)
 - Clean **separation of concerns** (config, tools, agent logic, entry point kept in separate files)
 - Persistent **conversation memory** across multi-turn interactions
+
+<img width="1350" height="720" alt="AI_Research_Agent_Architecture" src="https://github.com/user-attachments/assets/69ddc483-64c4-4750-8846-712e74ceb3e9" />
+
